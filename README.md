@@ -1,2 +1,1 @@
-# read
-too young
+A private repo is used to push some code comments.
